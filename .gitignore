@@ -1,0 +1,13 @@
+.DS_Store
+.expo
+android/.gradle/
+android/.idea/
+android/app/build/
+android/local.properties
+ios/ConsultantApp.xcodeproj/project.xcworkspace/
+ios/ConsultantApp.xcworkspace/
+ios/.DS_Store
+ios/Podfile.lock
+ios/Pods/
+ios/build/
+node_modules
